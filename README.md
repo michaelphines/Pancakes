@@ -5,6 +5,11 @@ This is a javascript bookmarklet that inserts a "faux-moji" into your currently 
 
 Compile it here: http://ted.mielczarek.org/code/mozilla/bookmarklet.html
 
+
+## The result
+
+<img src="http://i.imgur.com/jSczQzR.png" style="margin: 0 -10px" width="35px" title="pancakes" valign="bottom">
+
 ## The bookmarklet:
 
 ```javascript
